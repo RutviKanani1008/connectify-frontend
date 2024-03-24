@@ -1,0 +1,17 @@
+export const companyMembershipStatus = [
+  { value: 'degree-level-1', label: 'Degree Level 1 (Entered Apprentice)' },
+  { value: 'degree-level-2', label: 'Degree Level 2 (Fellow Craft)' },
+  { value: 'degree-level-3', label: 'Degree Level 3 (Master Mason)' },
+  { value: 'officers', label: 'Officers' },
+  { value: 'master-of-company', label: 'Master of Company' },
+  { value: 'senior-warden', label: 'Senior Warden' },
+  { value: 'junior-warden', label: 'junior warden' },
+  { value: 'treasurer', label: 'Treasurer' },
+  { value: 'secretary', label: 'Secretary' },
+  { value: 'senior-deacon', label: 'Senior Deacon' },
+  { value: 'junior-deacon', label: 'Junior Deacon' },
+  { value: 'senior-steward', label: 'Senior Steward' },
+  { value: 'junior-steward', label: 'Junior Steward' },
+  { value: 'tyler', label: 'Tyler' },
+  { value: 'marshal', label: 'Marshal' },
+];

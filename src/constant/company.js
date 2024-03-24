@@ -1,0 +1,23 @@
+export const defaultStages = [
+  { code: 'downloaded-e-book', title: 'Downloaded E-Book' },
+  { code: 'requested-consultation', title: 'Requested Consultation' },
+  { code: 'left-message-for-contact', title: 'Left Message For Contact' },
+  { code: 'spoke-with-contact', title: 'Spoke With Contact' },
+  { code: 'invited-to-company', title: 'Invited To Company' },
+  { code: 'visited-company', title: 'Visited Company' },
+  { code: 'requested-petition', title: 'Requested Petition' },
+  { code: 'petition-submitted', title: 'Petition Submitted' },
+  {
+    code: 'investigation-committee-assigned',
+    title: 'Investigation Committee Assigned',
+  },
+  { code: 'investigation-completed', title: 'Investigation Completed' },
+  { code: 'ballot-completed', title: 'Ballot Completed' },
+  { code: 'ea-initiation-complete', title: 'EA Initiation Complete' },
+  { code: 'ea-proficiency-complete', title: 'EA Proficiency Complete' },
+  { code: 'fc-passing-complete', title: 'FC Passing Complete' },
+  { code: 'fc-proficiency-complete', title: 'FC Proficiency Complete' },
+  { code: 'mm-raising-complete', title: 'MM Raising Complete' },
+  { code: 'mm-proficiency-complete', title: 'MM Proficiency Complete' },
+  { code: 'contact-archived', title: 'Contact Archived' },
+];
